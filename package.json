@@ -1,0 +1,29 @@
+{
+  "name": "huseyin-karatas-naber",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "huseyin": "echo 'benim adım hüseyin'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Hüseyin Karataş",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.3.4",
+    "nodemailer": "^6.9.13",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huseyinKarats/huseyin-karatas-deneme.git"
+  }
+}
